@@ -3,8 +3,8 @@ This Repository contains the code for Simple Calculator built using AWS Lambda a
 
 # Getting Started
 ## Clone this repository
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+-git clone https://github.com/your-username/repository-name.git 
+-cd repository-name
 ## Deploy the AWS Lambda Functions
 1. Open AWS Console -> Services -> Lambda.
 2. Click on the "Create function" -> "Author from scratch."
