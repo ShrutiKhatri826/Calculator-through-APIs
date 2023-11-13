@@ -3,11 +3,11 @@ This Repository contains the code for Simple Calculator built using AWS Lambda a
 
 # Getting Started
 ## Clone this repository
--git clone https://github.com/your-username/repository-name.git 
--cd repository-name
+1. git clone https://github.com/your-username/repository-name.git
+2. cd repository-name
 ## Deploy the Lambda Functions and APIs through API Gateway
-AWS Lambda - https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
-Amazon API Gateway - https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
+1. AWS Lambda - https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+2. Amazon API Gateway - https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
 
 PROCESS:
 1. Open AWS Console -> Services -> Lambda.
@@ -23,6 +23,7 @@ PROCESS:
 9. Once everything is set up, deploy your Apis in AWS API Gateway and also the lambda functions.
 
 # Testing
+Postman - https://learning.postman.com/docs/introduction/overview/
 Use Postman or a similar tool to test the APIs. Sample API paths:
   - Addition API: https://api-id.execute-api.region.amazonaws.com/stage/addition
   - Subtraction API: https://api-id.execute-api.region.amazonaws.com/stage/subtraction ....similarly with other operations
